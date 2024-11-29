@@ -1,5 +1,5 @@
 {
-  "homepage": "https://cesarmi7.github.io/wdhw4",
+  "homepage": "/",
   "devDependencies": {
     "@types/papaparse": "^5.3.15",
     "@types/react-calendar-heatmap": "^1.9.0",
