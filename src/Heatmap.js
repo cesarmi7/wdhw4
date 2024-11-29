@@ -13,6 +13,21 @@ function Heatmap({ data }) {
     return days;
   };
 
+  const getGifForSongsPlayed = (songsPlayed) => {
+    if (songsPlayed > 150) {
+      return "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc2d2oyd3hqYXR0Z200OWhuaHRkMXpkOG1raXJybjF4M2dxY2t6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJxNm7zrm3K4E/giphy.webp"; // Very high activity
+    } else if (songsPlayed > 100) {
+      return "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZsYTV6OGcxbzR1bGhwN2Fid2EzNzlzNWc2N2w4OTI2MHhsbHMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.webp"; // High activity
+    } else if (songsPlayed > 50) {
+      return "https://64.media.tumblr.com/0e96916f16d4eb58663de979fe08ef44/tumblr_inline_nzazjyuuLK1t91gva_500.gifv"; // Moderate activity
+    } else if (songsPlayed > 0) {
+      return "https://64.media.tumblr.com/8b156a49fd9d807c9e495f29d8aeda60/tumblr_onsyjpH9591qcbwpgo2_250.gifv"; // Low activity
+    } else {
+      return "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFuZWt3ajAwaDA5c3h5MWFpdXk2dGRzNmh1aHpmdWxzMHZ2bmNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkhqXObfsfyhWwh4jL/giphy.webp"; // No activity
+    }
+  
+  };
+
   const getColor = (count) => {
     if (count > 150) return "#195501";
     if (count > 100) return "#487722";
@@ -36,17 +51,6 @@ function Heatmap({ data }) {
     setTooltip({ visible: false, content: "", x: 0, y: 0 });
   };
 
-  const handleTouch = (e, content) => {
-    const rect = e.target.getBoundingClientRect();
-    setTooltip({
-      visible: true,
-      content,
-      x: rect.left + window.scrollX + 15,
-      y: rect.top + window.scrollY - 15,
-    });
-    e.stopPropagation(); // Evitar que otros elementos reaccionen al toque
-  };
-
   const heatmap = generateHeatmap();
 
   return (
@@ -57,17 +61,28 @@ function Heatmap({ data }) {
           <div className="days">
             {month.map((day, dayIndex) => {
               const dayData = day || { songs_played: 0, top_song: "No Data" };
-              const tooltipContent = `Date: ${new Date(2023, monthIndex, dayIndex + 1).toISOString().split("T")[0]}
-Songs Played: ${dayData.songs_played}
-Top Song: ${dayData.top_song}`;
+              const tooltipContent = (
+                <>
+                  <div>Date: {new Date(2023, monthIndex, dayIndex + 1).toISOString().split("T")[0]}</div>
+                  <div>Number of Songs Played: {dayData.songs_played}</div>
+                  <div>Top Song: {dayData.top_song}</div>
+                  {dayData.songs_played > 0 && (
+                    <img
+                      src={getGifForSongsPlayed(dayData.songs_played)}
+                      alt="Activity GIF"
+                      style={{ maxWidth: "100px", marginTop: "10px", borderRadius: "5px" }}
+                    />
+                  )}
+                </>
+              );
               return (
                 <div
                   key={dayIndex}
                   className="day"
                   style={{ backgroundColor: getColor(dayData.songs_played) }}
-                  onMouseEnter={(e) => showTooltip(e, tooltipContent)} // Desktop
-                  onMouseLeave={hideTooltip} // Desktop
-                  onClick={(e) => handleTouch(e, tooltipContent)} // Mobile
+                  onMouseEnter={(e) => showTooltip(e, tooltipContent)}
+                  onMouseLeave={hideTooltip}
+                  onClick={(e) => showTooltip(e, tooltipContent)} // Mobile support
                 >
                   {dayIndex + 1}
                 </div>
@@ -84,9 +99,7 @@ Top Song: ${dayData.top_song}`;
             left: `${tooltip.x}px`,
           }}
         >
-          {tooltip.content.split("\n").map((line, i) => (
-            <div key={i}>{line}</div>
-          ))}
+          {tooltip.content}
         </div>
       )}
     </div>
