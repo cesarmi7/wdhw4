@@ -1,0 +1,1827 @@
+[
+  {
+    "date": "2022-01-01",
+    "songs_played": 70,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-01-02",
+    "songs_played": 23,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-01-03",
+    "songs_played": 181,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-01-04",
+    "songs_played": 36,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-01-05",
+    "songs_played": 105,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-01-06",
+    "songs_played": 73,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-01-07",
+    "songs_played": 46,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-01-08",
+    "songs_played": 178,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-01-09",
+    "songs_played": 40,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-01-10",
+    "songs_played": 124,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-01-11",
+    "songs_played": 141,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-01-12",
+    "songs_played": 125,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-01-13",
+    "songs_played": 129,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-01-14",
+    "songs_played": 195,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-01-15",
+    "songs_played": 136,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-01-16",
+    "songs_played": 22,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-01-17",
+    "songs_played": 36,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-01-18",
+    "songs_played": 169,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-01-19",
+    "songs_played": 43,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-01-20",
+    "songs_played": 60,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-01-21",
+    "songs_played": 127,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-01-22",
+    "songs_played": 73,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-01-23",
+    "songs_played": 121,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-01-24",
+    "songs_played": 136,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-01-25",
+    "songs_played": 188,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-01-26",
+    "songs_played": 106,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-01-27",
+    "songs_played": 56,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-01-28",
+    "songs_played": 120,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-01-29",
+    "songs_played": 48,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-01-30",
+    "songs_played": 59,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-01-31",
+    "songs_played": 35,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-02-01",
+    "songs_played": 180,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-02-02",
+    "songs_played": 148,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-02-03",
+    "songs_played": 73,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-02-04",
+    "songs_played": 113,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-02-05",
+    "songs_played": 37,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-02-06",
+    "songs_played": 154,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-02-07",
+    "songs_played": 181,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-02-08",
+    "songs_played": 189,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-02-09",
+    "songs_played": 61,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-02-10",
+    "songs_played": 66,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-02-11",
+    "songs_played": 197,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-02-12",
+    "songs_played": 49,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-02-13",
+    "songs_played": 100,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-02-14",
+    "songs_played": 19,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-02-15",
+    "songs_played": 172,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-02-16",
+    "songs_played": 155,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-02-17",
+    "songs_played": 30,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-02-18",
+    "songs_played": 28,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-02-19",
+    "songs_played": 167,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-02-20",
+    "songs_played": 178,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-02-21",
+    "songs_played": 13,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-02-22",
+    "songs_played": 147,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-02-23",
+    "songs_played": 44,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-02-24",
+    "songs_played": 58,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-02-25",
+    "songs_played": 110,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-02-26",
+    "songs_played": 178,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-02-27",
+    "songs_played": 65,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-02-28",
+    "songs_played": 145,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-03-01",
+    "songs_played": 28,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-03-02",
+    "songs_played": 38,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-03-03",
+    "songs_played": 158,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-03-04",
+    "songs_played": 152,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-03-05",
+    "songs_played": 199,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-03-06",
+    "songs_played": 192,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-03-07",
+    "songs_played": 82,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-03-08",
+    "songs_played": 169,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-03-09",
+    "songs_played": 111,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-03-10",
+    "songs_played": 90,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-03-11",
+    "songs_played": 78,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-03-12",
+    "songs_played": 196,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-03-13",
+    "songs_played": 141,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-03-14",
+    "songs_played": 137,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-03-15",
+    "songs_played": 49,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-03-16",
+    "songs_played": 195,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-03-17",
+    "songs_played": 56,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-03-18",
+    "songs_played": 187,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-03-19",
+    "songs_played": 165,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-03-20",
+    "songs_played": 100,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-03-21",
+    "songs_played": 180,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-03-22",
+    "songs_played": 98,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-03-23",
+    "songs_played": 26,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-03-24",
+    "songs_played": 156,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-03-25",
+    "songs_played": 115,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-03-26",
+    "songs_played": 23,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-03-27",
+    "songs_played": 112,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-03-28",
+    "songs_played": 157,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-03-29",
+    "songs_played": 55,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-03-30",
+    "songs_played": 105,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-03-31",
+    "songs_played": 53,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-04-01",
+    "songs_played": 193,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-04-02",
+    "songs_played": 163,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-04-03",
+    "songs_played": 89,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-04-04",
+    "songs_played": 157,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-04-05",
+    "songs_played": 57,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-04-06",
+    "songs_played": 25,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-04-07",
+    "songs_played": 196,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-04-08",
+    "songs_played": 98,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-04-09",
+    "songs_played": 38,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-04-10",
+    "songs_played": 169,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-04-11",
+    "songs_played": 124,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-04-12",
+    "songs_played": 94,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-04-13",
+    "songs_played": 116,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-04-14",
+    "songs_played": 50,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-04-15",
+    "songs_played": 163,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-04-16",
+    "songs_played": 69,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-04-17",
+    "songs_played": 150,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-04-18",
+    "songs_played": 137,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-04-19",
+    "songs_played": 200,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-04-20",
+    "songs_played": 70,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-04-21",
+    "songs_played": 93,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-04-22",
+    "songs_played": 110,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-04-23",
+    "songs_played": 37,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-04-24",
+    "songs_played": 125,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-04-25",
+    "songs_played": 137,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-04-26",
+    "songs_played": 188,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-04-27",
+    "songs_played": 150,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-04-28",
+    "songs_played": 68,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-04-29",
+    "songs_played": 144,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-04-30",
+    "songs_played": 102,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-05-01",
+    "songs_played": 165,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-05-02",
+    "songs_played": 56,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-05-03",
+    "songs_played": 150,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-05-04",
+    "songs_played": 13,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-05-05",
+    "songs_played": 179,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-05-06",
+    "songs_played": 88,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-05-07",
+    "songs_played": 125,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-05-08",
+    "songs_played": 40,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-05-09",
+    "songs_played": 193,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-05-10",
+    "songs_played": 71,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-05-11",
+    "songs_played": 144,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-05-12",
+    "songs_played": 102,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-05-13",
+    "songs_played": 85,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-05-14",
+    "songs_played": 153,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-05-15",
+    "songs_played": 178,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-05-16",
+    "songs_played": 142,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-05-17",
+    "songs_played": 41,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-05-18",
+    "songs_played": 95,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-05-19",
+    "songs_played": 33,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-05-20",
+    "songs_played": 83,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-05-21",
+    "songs_played": 58,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-05-22",
+    "songs_played": 159,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-05-23",
+    "songs_played": 10,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-05-24",
+    "songs_played": 93,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-05-25",
+    "songs_played": 19,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-05-26",
+    "songs_played": 37,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-05-27",
+    "songs_played": 182,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-05-28",
+    "songs_played": 105,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-05-29",
+    "songs_played": 85,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-05-30",
+    "songs_played": 32,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-05-31",
+    "songs_played": 166,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-06-01",
+    "songs_played": 47,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-06-02",
+    "songs_played": 85,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-06-03",
+    "songs_played": 140,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-06-04",
+    "songs_played": 77,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-06-05",
+    "songs_played": 76,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-06-06",
+    "songs_played": 88,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-06-07",
+    "songs_played": 163,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-06-08",
+    "songs_played": 169,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-06-09",
+    "songs_played": 27,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-06-10",
+    "songs_played": 159,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-06-11",
+    "songs_played": 21,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-06-12",
+    "songs_played": 63,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-13",
+    "songs_played": 24,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-06-14",
+    "songs_played": 148,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-15",
+    "songs_played": 177,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-16",
+    "songs_played": 179,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-06-17",
+    "songs_played": 33,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-06-18",
+    "songs_played": 155,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-06-19",
+    "songs_played": 137,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-20",
+    "songs_played": 89,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-21",
+    "songs_played": 111,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-06-22",
+    "songs_played": 35,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-06-23",
+    "songs_played": 185,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-24",
+    "songs_played": 18,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-06-25",
+    "songs_played": 67,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-26",
+    "songs_played": 148,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-06-27",
+    "songs_played": 90,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-06-28",
+    "songs_played": 158,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-06-29",
+    "songs_played": 162,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-06-30",
+    "songs_played": 134,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-07-01",
+    "songs_played": 45,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-07-02",
+    "songs_played": 66,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-07-03",
+    "songs_played": 70,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-07-04",
+    "songs_played": 93,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-07-05",
+    "songs_played": 12,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-07-06",
+    "songs_played": 119,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-07-07",
+    "songs_played": 183,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-07-08",
+    "songs_played": 165,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-07-09",
+    "songs_played": 13,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-07-10",
+    "songs_played": 90,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-07-11",
+    "songs_played": 133,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-07-12",
+    "songs_played": 56,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-07-13",
+    "songs_played": 70,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-07-14",
+    "songs_played": 107,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-07-15",
+    "songs_played": 109,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-07-16",
+    "songs_played": 160,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-07-17",
+    "songs_played": 199,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-07-18",
+    "songs_played": 151,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-07-19",
+    "songs_played": 105,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-07-20",
+    "songs_played": 89,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-07-21",
+    "songs_played": 76,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-07-22",
+    "songs_played": 34,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-07-23",
+    "songs_played": 100,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-07-24",
+    "songs_played": 182,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-07-25",
+    "songs_played": 81,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-07-26",
+    "songs_played": 105,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-07-27",
+    "songs_played": 32,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-07-28",
+    "songs_played": 122,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-07-29",
+    "songs_played": 150,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-07-30",
+    "songs_played": 111,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-07-31",
+    "songs_played": 31,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-08-01",
+    "songs_played": 130,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-08-02",
+    "songs_played": 58,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-08-03",
+    "songs_played": 63,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-08-04",
+    "songs_played": 158,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-08-05",
+    "songs_played": 107,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-08-06",
+    "songs_played": 19,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-08-07",
+    "songs_played": 193,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-08-08",
+    "songs_played": 174,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-08-09",
+    "songs_played": 171,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-08-10",
+    "songs_played": 50,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-08-11",
+    "songs_played": 186,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-08-12",
+    "songs_played": 119,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-08-13",
+    "songs_played": 157,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-08-14",
+    "songs_played": 25,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-08-15",
+    "songs_played": 23,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-08-16",
+    "songs_played": 193,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-08-17",
+    "songs_played": 179,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-08-18",
+    "songs_played": 197,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-08-19",
+    "songs_played": 113,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-08-20",
+    "songs_played": 118,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-08-21",
+    "songs_played": 112,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-08-22",
+    "songs_played": 168,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-08-23",
+    "songs_played": 191,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-08-24",
+    "songs_played": 175,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-08-25",
+    "songs_played": 87,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-08-26",
+    "songs_played": 168,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-08-27",
+    "songs_played": 76,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-08-28",
+    "songs_played": 14,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-08-29",
+    "songs_played": 95,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-08-30",
+    "songs_played": 107,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-08-31",
+    "songs_played": 50,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-09-01",
+    "songs_played": 198,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-09-02",
+    "songs_played": 30,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-09-03",
+    "songs_played": 14,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-09-04",
+    "songs_played": 119,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-05",
+    "songs_played": 173,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-09-06",
+    "songs_played": 141,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-09-07",
+    "songs_played": 108,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-09-08",
+    "songs_played": 139,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-09-09",
+    "songs_played": 112,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-09-10",
+    "songs_played": 76,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-11",
+    "songs_played": 68,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-09-12",
+    "songs_played": 195,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-09-13",
+    "songs_played": 59,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-14",
+    "songs_played": 47,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-15",
+    "songs_played": 191,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-16",
+    "songs_played": 32,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-17",
+    "songs_played": 79,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-09-18",
+    "songs_played": 61,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-09-19",
+    "songs_played": 46,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-20",
+    "songs_played": 127,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-09-21",
+    "songs_played": 166,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-09-22",
+    "songs_played": 173,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-23",
+    "songs_played": 108,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-09-24",
+    "songs_played": 75,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-09-25",
+    "songs_played": 17,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-09-26",
+    "songs_played": 135,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-09-27",
+    "songs_played": 19,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-09-28",
+    "songs_played": 92,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-09-29",
+    "songs_played": 37,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-09-30",
+    "songs_played": 126,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-01",
+    "songs_played": 129,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-02",
+    "songs_played": 177,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-10-03",
+    "songs_played": 157,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-10-04",
+    "songs_played": 186,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-10-05",
+    "songs_played": 65,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-10-06",
+    "songs_played": 62,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-07",
+    "songs_played": 66,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-10-08",
+    "songs_played": 88,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-10-09",
+    "songs_played": 123,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-10-10",
+    "songs_played": 60,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-10-11",
+    "songs_played": 125,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-10-12",
+    "songs_played": 180,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-10-13",
+    "songs_played": 150,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-10-14",
+    "songs_played": 61,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-15",
+    "songs_played": 37,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-10-16",
+    "songs_played": 164,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-10-17",
+    "songs_played": 182,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-18",
+    "songs_played": 181,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-10-19",
+    "songs_played": 33,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-10-20",
+    "songs_played": 22,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-21",
+    "songs_played": 110,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-10-22",
+    "songs_played": 108,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-10-23",
+    "songs_played": 195,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-10-24",
+    "songs_played": 53,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-10-25",
+    "songs_played": 63,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-26",
+    "songs_played": 108,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-10-27",
+    "songs_played": 92,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-10-28",
+    "songs_played": 193,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-10-29",
+    "songs_played": 151,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-10-30",
+    "songs_played": 172,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-10-31",
+    "songs_played": 150,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-11-01",
+    "songs_played": 32,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-11-02",
+    "songs_played": 181,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-11-03",
+    "songs_played": 116,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-11-04",
+    "songs_played": 40,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-11-05",
+    "songs_played": 20,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-11-06",
+    "songs_played": 54,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-11-07",
+    "songs_played": 130,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-11-08",
+    "songs_played": 102,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-11-09",
+    "songs_played": 193,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-11-10",
+    "songs_played": 20,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-11-11",
+    "songs_played": 199,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-11-12",
+    "songs_played": 194,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-11-13",
+    "songs_played": 107,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-11-14",
+    "songs_played": 34,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-11-15",
+    "songs_played": 193,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-11-16",
+    "songs_played": 39,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-11-17",
+    "songs_played": 23,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-11-18",
+    "songs_played": 109,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-11-19",
+    "songs_played": 125,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-11-20",
+    "songs_played": 166,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-11-21",
+    "songs_played": 136,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-11-22",
+    "songs_played": 155,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-11-23",
+    "songs_played": 123,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-11-24",
+    "songs_played": 15,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-11-25",
+    "songs_played": 145,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-11-26",
+    "songs_played": 56,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-11-27",
+    "songs_played": 164,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-11-28",
+    "songs_played": 45,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-11-29",
+    "songs_played": 168,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-11-30",
+    "songs_played": 135,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-12-01",
+    "songs_played": 171,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-12-02",
+    "songs_played": 138,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-12-03",
+    "songs_played": 152,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-12-04",
+    "songs_played": 29,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-12-05",
+    "songs_played": 143,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-12-06",
+    "songs_played": 40,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-12-07",
+    "songs_played": 91,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-12-08",
+    "songs_played": 177,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-12-09",
+    "songs_played": 173,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-12-10",
+    "songs_played": 148,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-12-11",
+    "songs_played": 127,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-12-12",
+    "songs_played": 90,
+    "top_song": "Rolling in the Deep by Adele"
+  },
+  {
+    "date": "2022-12-13",
+    "songs_played": 168,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-12-14",
+    "songs_played": 51,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-12-15",
+    "songs_played": 123,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-12-16",
+    "songs_played": 157,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-12-17",
+    "songs_played": 106,
+    "top_song": "Smells Like Teen Spirit by Nirvana"
+  },
+  {
+    "date": "2022-12-18",
+    "songs_played": 91,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-12-19",
+    "songs_played": 48,
+    "top_song": "Billie Jean by Michael Jackson"
+  },
+  {
+    "date": "2022-12-20",
+    "songs_played": 26,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-12-21",
+    "songs_played": 62,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-12-22",
+    "songs_played": 200,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-12-23",
+    "songs_played": 109,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-12-24",
+    "songs_played": 80,
+    "top_song": "Hey Jude by The Beatles"
+  },
+  {
+    "date": "2022-12-25",
+    "songs_played": 128,
+    "top_song": "Bohemian Rhapsody by Queen"
+  },
+  {
+    "date": "2022-12-26",
+    "songs_played": 169,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-12-27",
+    "songs_played": 24,
+    "top_song": "Shape of You by Ed Sheeran"
+  },
+  {
+    "date": "2022-12-28",
+    "songs_played": 122,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-12-29",
+    "songs_played": 188,
+    "top_song": "Uptown Funk by Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "date": "2022-12-30",
+    "songs_played": 119,
+    "top_song": "Imagine by John Lennon"
+  },
+  {
+    "date": "2022-12-31",
+    "songs_played": 169,
+    "top_song": "Hey Jude by The Beatles"
+  }
+]
